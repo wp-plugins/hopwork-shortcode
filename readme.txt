@@ -38,8 +38,8 @@ To have information on new release, follow http://copier-coller.com/hopwork-shor
 == Frequently Asked Questions ==
 Do you have questions or issues with hopwork-shortcode? Use these support channels appropriately.
 1. [Docs](http://copier-coller.com/hopwork-shortcode/)
-1. [Support Forum](http://wordpress.org/support/plugin/hopwork-shortcode)
-1-How do i create my shortcode?
+2. [Support Forum](http://wordpress.org/support/plugin/hopwork-shortcode)
+3-How do i create my shortcode?
 Here are the two shortcode : (you have fo fill the blank fields with your own values)
 for the widget :
 [profil_widget dataid="" recos="" picture=""  tags="" height="" width="" style=""]
